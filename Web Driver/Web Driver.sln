@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Driver", "Web Driver\Web Driver.csproj", "{D6FF586B-A604-4905-9BD7-CD8F6CBB877C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPageTest", "WebPageTest\WebPageTest.csproj", "{8C4354EB-C70F-4E8D-9B99-A0CD2416B9E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6FF586B-A604-4905-9BD7-CD8F6CBB877C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FF586B-A604-4905-9BD7-CD8F6CBB877C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FF586B-A604-4905-9BD7-CD8F6CBB877C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FF586B-A604-4905-9BD7-CD8F6CBB877C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4354EB-C70F-4E8D-9B99-A0CD2416B9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4354EB-C70F-4E8D-9B99-A0CD2416B9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4354EB-C70F-4E8D-9B99-A0CD2416B9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4354EB-C70F-4E8D-9B99-A0CD2416B9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DBB7EB7-5EF8-4689-BCB3-2586355E53F3}
+	EndGlobalSection
+EndGlobal
